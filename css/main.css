@@ -1,7 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+@import url(http://fonts.googleapis.com/css?family=Bitter);
 
 body {
-    font-family: 'Ubuntu', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-family: 'Bitter', 'Helvetica Neue', 'Helvetica', sans-serif;
     font-weight: 400;
 }
 
@@ -11,3 +11,6 @@ body {
     margin-right: 10px;
 }
 
+#clickable {
+    cursor: pointer;
+}
