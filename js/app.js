@@ -74,7 +74,3 @@ angular.module('CommentApp', ['ui.bootstrap'])
             }
         };
     }); // CommentsController
-
-/* STILL NEED TO FIX:
-    General UX
- */
